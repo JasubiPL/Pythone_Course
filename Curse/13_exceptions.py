@@ -19,3 +19,5 @@ def divide():
   print("Calculo finalizado")
 
 divide()
+
+#Tambien se puede usar "finally" sin embargo este no captura el error, pero permite que el programa siga ejecutandose
